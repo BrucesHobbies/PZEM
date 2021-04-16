@@ -56,10 +56,10 @@ Before continuing make sure your operating system has been updated with the late
     sudo reboot now
 
 
-## Step 2: Download sumpMaster software
+## Step 2: Download PZEM software
 To get a copy of the source files type in the following git command assuming you have already installed git:
 
-    git clone https://github.com/BrucesHobbies/sumpMaster
+    git clone https://github.com/BrucesHobbies/PZEM
 
 Download prerequisitie ModBus.
 
