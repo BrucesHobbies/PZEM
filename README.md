@@ -20,7 +20,7 @@ Consult an electrician for your local electrical codes. Also refer to the docume
 ![Figure 2: PZEM Wiring](https://github.com/BrucesHobbies/sumpMaster/blob/main/figures/figure2.png)
 
 # Required Hardware 
-As an Amazon Associate I earn a small commission from qualifying purchases. It does not in anyway change the prices on Amazon. I appreciate your support, if you purchase using the links below.
+As an Amazon Associate I earn a small commission from qualifying purchases. It does not in any way change the prices on Amazon. I appreciate your support, if you purchase using the links below.
 ## PZEM Module (about $20 USD)
 For Alternating Current (AC) devices
 - One of the following AC power PZEM-016 modules - may have different shipping times
