@@ -45,7 +45,7 @@ For Direct Current (DC) devices
 
 
 # Software Installation
-## Step 1: Setup the Raspberry Pi Operating System.
+## Step 1: Install the Raspberry Pi Operating System.
 Here are the instructions to install the Raspberry Pi Operating System.
 [Raspberry Software Install Procedure](https://www.raspberrypi.org/software/operating-systems/)
 
